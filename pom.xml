@@ -40,7 +40,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/shekarharsha/pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:shekarharsha/pet-clinic.git</developerConnection>
 	</scm>
 
 </project>
