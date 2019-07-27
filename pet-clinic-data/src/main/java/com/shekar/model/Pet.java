@@ -5,18 +5,14 @@ import lombok.Setter;
 
 import java.time.LocalDate;
 
+@Getter
+@Setter
 public class Pet extends BaseEntity{
 
-    @Getter
-    @Setter
     private PetType petType;
 
-    @Getter
-    @Setter
     private Owner owner;
 
-    @Getter
-    @Setter
     private LocalDate birthDate;
 
 }
